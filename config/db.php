@@ -4,7 +4,7 @@ return [
     'class' => 'yii\db\Connection',
     'dsn' => 'mysql:host=localhost;dbname=imooc_shop',
     'username' => 'root',
-    'password' => '168168',
+    'password' => '113abce1651A',
     'charset' => 'utf8',
     'tablePrefix'=>'shop_',
 
